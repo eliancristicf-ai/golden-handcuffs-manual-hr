@@ -44,7 +44,7 @@ Both articles are licensed under **Creative Commons Attribution 4.0 Internationa
 
 You may share and adapt the material, including for commercial use (trainings, consulting, publications), provided you credit the author:
 
-> Florescu, E.C. (2026). *Golden Handcuffs — A Short Manual for HR Professionals Who Actually Want to Retain People*. Licensed CC BY 4.0. https://github.com/eliancristicf-ai/[]
+> Florescu, E.C. (2026). *Golden Handcuffs — A Short Manual for HR Professionals Who Actually Want to Retain People*. Licensed CC BY 4.0. https://github.com/eliancristicf-ai/golden-handcuffs-manual-hr
 
 Academic references cited in the articles remain the property of their original authors and publishers; they are not covered by this repository's licence.
 
